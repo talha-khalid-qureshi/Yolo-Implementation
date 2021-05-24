@@ -1,7 +1,7 @@
 
 ** Readme File **
 
- 1) git clone "yolov4(our Repo)"
+ 1) git clone https://github.com/talha-khalid-qureshi/Yolo-Implementation.git
 
  2) download backup folder ( https://drive.google.com/drive/folders/1NZtE39GF-tMgi97sFG7vo-VC1fpCNpIN?usp=sharing ).
 
