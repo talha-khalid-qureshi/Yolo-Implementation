@@ -14,28 +14,21 @@
  6) place backup, Testing, obj, test folder inside yolov4.
 
  7) Directory Structure
-
-      MyDrive
-        |
-        |
-        |
-         ------ darknet (will automatically be place once you run script).
-         ------ yolov4 (Our Cloned Repo)
-                  |
-                  |
-                  |
-                   ------ BoundingBox.ipynb
-                   ------ generate_test.py
-                   ------ generate_train.py
-                   ------ image.c
-                   ------ obj.data
-                   ------ obj.names
-                   ------ Testing.ipynb
-                   ------ Training.ipynb
-                   ------ yolov4-obj.cfg
-                   ------ backup   (Download from upper link) [Extracted folder]
-                   ------ Testing  (Download from upper link) [Extracted folder]
-                   ------ obj.zip  (Download from upper link)
-                   ------ test.zip (Download from upper link)
-
- 
+         
+        My Drive
+        ├── ...
+        ├── darknet                    # will automatically be place once you run script
+        ├── Yolo-Implementation        # Our Cloned Repo
+        │   ├── BoundingBox.ipynb          
+        │   ├── generate_test.py 
+        │   ├── generate_train.py 
+        │   ├── image.c 
+        │   ├── obj.data
+        │   ├── obj.names 
+        │   ├── Testing.ipynb 
+        │   ├── Training.ipynb
+        │   ├── yolov4-obj.cfg 
+        │   ├── backup   (Download from upper link) [Extracted folder] 
+        │   ├── Testing  (Download from upper link) [Extracted folder]
+        │   └── obj.zip  (Download from upper link)              
+        └── ...
