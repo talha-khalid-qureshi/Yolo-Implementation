@@ -11,7 +11,7 @@
 
  5) download test folder ( https://drive.google.com/file/d/1BE4LzGpVxTgiAc4dmeOFu6roFU6TE2S1/view?usp=sharing ).
 
- 6) place backup, Testing, obj, test folder inside yolov4.
+ 6) place backup, Testing, obj, test folder inside Yolo-Implementation.
 
  7) Directory Structure
          
